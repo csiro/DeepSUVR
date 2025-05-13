@@ -1,0 +1,5 @@
+SimpleITK==2.4.0
+tqdm==4.67.1
+pandas==2.2.3
+numpy==2.1.3
+
